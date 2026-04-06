@@ -1,10 +1,3 @@
-<div align="center">
-
-# 👋 Jaewoo Yu
-**"경계 없는 기술로 최적의 솔루션을 구축하는 개발자"**
-
-<br>
-
 ## 🛠 Tech Stack
 
 | Category | Stack |
@@ -33,14 +26,3 @@
     - [📂 GitHub Repository](https://github.com/ooweaJ/Unity_Dedicate)
 
 <br>
-
-
-<div align="center">
-
-🔥 *"플레이 경험을 만드는 건 결국 안정적인 시스템이다"* 🔥
-
-<br>
-
-[![Notion](https://img.shields.io/badge/Portfolio-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Unity-Dedicated-Server-C-Mirror-2c4dc21508298045b0c0fcc4b95c99aa)
-
-</div>
